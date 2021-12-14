@@ -1,0 +1,30 @@
+D:\Projects\ProjectsC#\toks1\toks1\bin\Debug\toks1.exe.config
+D:\Projects\ProjectsC#\toks1\toks1\bin\Debug\toks1.exe
+D:\Projects\ProjectsC#\toks1\toks1\bin\Debug\toks1.pdb
+D:\Projects\ProjectsC#\toks1\toks1\obj\Debug\toks1.csproj.AssemblyReference.cache
+D:\Projects\ProjectsC#\toks1\toks1\obj\Debug\toks1.Properties.Resources.resources
+D:\Projects\ProjectsC#\toks1\toks1\obj\Debug\toks1.csproj.GenerateResource.cache
+D:\Projects\ProjectsC#\toks1\toks1\obj\Debug\toks1.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectsC#\toks1\toks1\obj\Debug\toks1.exe
+D:\Projects\ProjectsC#\toks1\toks1\obj\Debug\toks1.pdb
+D:\Projects\ProjectsC#\toks1\toks1\obj\Debug\toks1.COMports.resources
+D:\Projects\ProjectsC#\toks1-lab4\toks1\bin\Debug\toks1.exe.config
+D:\Projects\ProjectsC#\toks1-lab4\toks1\bin\Debug\toks1.exe
+D:\Projects\ProjectsC#\toks1-lab4\toks1\bin\Debug\toks1.pdb
+D:\Projects\ProjectsC#\toks1-lab4\toks1\obj\Debug\toks1.csproj.AssemblyReference.cache
+D:\Projects\ProjectsC#\toks1-lab4\toks1\obj\Debug\toks1.COMports.resources
+D:\Projects\ProjectsC#\toks1-lab4\toks1\obj\Debug\toks1.Properties.Resources.resources
+D:\Projects\ProjectsC#\toks1-lab4\toks1\obj\Debug\toks1.csproj.GenerateResource.cache
+D:\Projects\ProjectsC#\toks1-lab4\toks1\obj\Debug\toks1.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectsC#\toks1-lab4\toks1\obj\Debug\toks1.exe
+D:\Projects\ProjectsC#\toks1-lab4\toks1\obj\Debug\toks1.pdb
+D:\Projects\ProjectsC#\toks1-lab4 — копия\toks1\bin\Debug\toks1.exe.config
+D:\Projects\ProjectsC#\toks1-lab4 — копия\toks1\bin\Debug\toks1.exe
+D:\Projects\ProjectsC#\toks1-lab4 — копия\toks1\bin\Debug\toks1.pdb
+D:\Projects\ProjectsC#\toks1-lab4 — копия\toks1\obj\Debug\toks1.csproj.AssemblyReference.cache
+D:\Projects\ProjectsC#\toks1-lab4 — копия\toks1\obj\Debug\toks1.COMports.resources
+D:\Projects\ProjectsC#\toks1-lab4 — копия\toks1\obj\Debug\toks1.Properties.Resources.resources
+D:\Projects\ProjectsC#\toks1-lab4 — копия\toks1\obj\Debug\toks1.csproj.GenerateResource.cache
+D:\Projects\ProjectsC#\toks1-lab4 — копия\toks1\obj\Debug\toks1.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectsC#\toks1-lab4 — копия\toks1\obj\Debug\toks1.exe
+D:\Projects\ProjectsC#\toks1-lab4 — копия\toks1\obj\Debug\toks1.pdb
